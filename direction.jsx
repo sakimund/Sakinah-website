@@ -92,7 +92,7 @@ function DirZacka({ darkMode, accent }) {
   const NavLink = ({ id, label }) => {
     const active = page === id;
     return (
-      
+      <a
         href="#"
         onClick={(e) => {e.preventDefault();setPage(id);}}
         style={{
@@ -108,7 +108,7 @@ function DirZacka({ darkMode, accent }) {
   };
 
   const Link = ({ children, href = '#' }) =>
-  
+  <a
     href={href}
     target={href.startsWith('http') ? '_blank' : undefined}
     rel={href.startsWith('http') ? 'noopener noreferrer' : undefined}
