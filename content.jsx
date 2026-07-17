@@ -16,8 +16,8 @@ const SAKINAH = {
     'PhD candidate in the Department of Linguistics and Philosophy at MIT. I work on philosophy of language and social and political philosophy, with related interests in applied ethics, philosophy of race, and Islamic and Buddhist philosophy.',
 
   bio: [
-    'I am a PhD candidate in the Department of Linguistics and Philosophy at MIT, where I work on philosophy of language and social and political philosophy.',
-    'Before coming to MIT, I lived in Melbourne, Australia, where I completed a Masters in Philosophy and a Bachelor of Arts in International Relations, Philosophy, and German Studies at the University of Melbourne. Alongside academic work, I worked in non-profit and hospitality — including seven years at one much-loved café.',
+    'I am a PhD candidate in the Department of Linguistics and Philosophy at MIT.I work at the intersection of philosophy of language and social and political philosophy.',
+    'Before coming to MIT, I lived in Melbourne, Australia, where I completed a Masters in Philosophy and a Bachelor of Arts in International Relations, Philosophy, and German Studies at the University of Melbourne. Alongside academic work, I have worked in the non-profit and hospitality sectors.',
   ],
 
   aos: ['Philosophy of Language', 'Social and Political Philosophy'],
