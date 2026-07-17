@@ -27,17 +27,17 @@ const SAKINAH = {
     {
       title: '‘Baiting Speech’',
       status: 'Under review',
-      synopsis: 'Synopsis coming soon.',
+      synopsis: '',
     },
     {
       title: '‘“She did resist!”: A pluralist account of speech acts’',
       status: 'Manuscript',
-      synopsis: 'Synopsis coming soon.',
+      synopsis: '',
     },
     {
       title: '‘When Blocking Backfires: Self-Reinforcing Presuppositions’',
       status: 'Manuscript',
-      synopsis: 'Synopsis coming soon.',
+      synopsis: '',
     },
   ],
 
